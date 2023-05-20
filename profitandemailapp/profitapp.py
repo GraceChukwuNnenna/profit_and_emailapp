@@ -7,6 +7,7 @@ print('Welcome to Cohort 2 Asset management consult plc')
 
 username = input('Enter your name: ')
 amount = input('Enter Investment Amount: ')
+print("Thanks", username, "for investing with us! Your Commission is underway")
 
 time.sleep(1*30)
 
