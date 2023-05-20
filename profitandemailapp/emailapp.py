@@ -11,9 +11,10 @@ timenow = datetime.datetime.now()
 
 # Create send_mail function
 def send_email():
-    sender = 'emchadexglobal@gmail.com'
-    recipient = 'emanstonepro@gmail.com','emchadexglobal@gmail.com'
-    mypassword = 'ewhkaqtxojttbbub'  
+    sender = 'graceumeayo@gmail.com'
+    recipient = 'emanstonepro@gmail.com','emchadexglobal@gmail.com','gracechukwu350@gmail.com'
+    mypassword = 'hbftwafgbqhzqnzk'
+'  
     subject = 'Timed email testing in python'
 
    # CREATE THE OBJECT OF THE EMAIL CLASS ;
